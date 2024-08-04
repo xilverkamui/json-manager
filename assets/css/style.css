@@ -1,0 +1,18 @@
+.handle {
+    cursor: move;
+}
+
+.row-item {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.row-item .form-group {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.row-item .handle {
+    margin-right: 10px;
+}
